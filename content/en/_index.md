@@ -1,9 +1,9 @@
 ---
 title: Shannon's FabLab Pages
 
-# description: "A Hugo site built with GitLab Pages"
+description: "A Hugo site built for Shannon's Fablab"
 cascade:
-  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+  featured_image: 'meme.jpg'
 ---
 
 This website is for documentating the process in Fablab.
