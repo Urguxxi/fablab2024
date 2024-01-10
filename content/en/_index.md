@@ -1,5 +1,5 @@
 ---
-title: "Hugo and GitLab Pages"
+title: Shannon's FabLab Pages"
 
 description: "A Hugo site built with GitLab Pages"
 cascade:
