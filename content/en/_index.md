@@ -1,7 +1,7 @@
 ---
-title: Shannon's FabLab Pages
+title: Shannon's FabLab
 
-description: "A Hugo site built for Shannon's Fablab"
+description: "Where magic happens"
 cascade:
   featured_image: 'meme.jpg'
 ---
