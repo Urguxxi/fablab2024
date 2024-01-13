@@ -26,9 +26,13 @@ resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 8 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
 
 [languages]
   [languages.en]
@@ -44,7 +48,7 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = ""
+  author = "Shannon MA"
   favicon = "favicon.ico"
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
