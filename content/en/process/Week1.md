@@ -47,4 +47,4 @@ I found that the pattern was not perfectly symmetrical, so I deleted half of it.
 To make a complete lock, I created the arrow on the other side which allows components to be connected.
 ![](http://localhost:1313/week1/create-an-arrow.png)
 
-The patterns are ready to be printed!
+The patterns are ready to be printed now!
