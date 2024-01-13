@@ -30,6 +30,7 @@ Cleaned up the useless lines in the design.
 ![](http://localhost:1313/week1/squares-cleaned.png)
 Then I used the "Create overall slot" function to create outside of the knot.
 ![](http://localhost:1313/week1/create-slots.png)
+![](http://localhost:1313/week1/create-slots2.png)
 To keep the design consistent, it's better to use mirroring to create slots for the other side.
 ![](http://localhost:1313/week1/mirror-slots.png)
 ![](http://localhost:1313/week1/mirror-curves.png)
