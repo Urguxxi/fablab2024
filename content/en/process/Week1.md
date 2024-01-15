@@ -19,33 +19,33 @@ Then I decided to prototype the Chinese knot first to see how it went.
 
 ## Sketching
 Here are my simple sketchings for different ideas. I found that the fish scale would be harder to press-fit horizontally. Comparing to the scale, the knot seemed more reasonable.
-![](http://localhost:1313/week1/fishscale.jpg)
-![](http://localhost:1313/week1/knot-draft.jpg)
+![](https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/week1/fishscale.jpg)
+![](https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/week1/knot-draft.jpg)
 
 ## Prototyping
 I started by creating the central square, which defines the basic shape of the knot.
-![](http://localhost:1313/week1/square1.png)
+![](https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/week1/square1.png)
 I created 4 smaller squares by offsetting them. It took me a lotta time to adjust their positions.
-![](http://localhost:1313/week1/squares-offset.png)
+![](https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/week1/squares-offset.png)
 Cleaned up the useless lines in the design.
-![](http://localhost:1313/week1/squares-cleaned.png)
+![](https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/week1/squares-cleaned.png)
 Then I used the "Create overall slot" function to create outside of the knot.
-![](http://localhost:1313/week1/create-slots.png)
-![](http://localhost:1313/week1/create-slots2.png)
+![](https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/week1/create-slots.png)
+![](https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/week1/create-slots2.png)
 To keep the design consistent, it's better to use mirroring to create slots for the other side.
-![](http://localhost:1313/week1/mirror-slots.png)
-![](http://localhost:1313/week1/mirror-curves.png)
-![](http://localhost:1313/week1/mirror-curves-2.png)
+![](https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/week1/mirror-slots.png)
+![](https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/week1/mirror-curves.png)
+![](https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/week1/mirror-curves-2.png)
 Offset the slots to create the width of the string.
-![](http://localhost:1313/week1/slots'offset.png)
+![](https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/week1/slots'offset.png)
 Cleaned up the lines and I got the first draft of my Chinese knot.
-![](http://localhost:1313/week1/knot-v1.png)
+![](https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/week1/knot-v1.png)
 
 ## Improvement
 I found that the pattern was not perfectly symmetrical, so I deleted half of it. I created a slot to make it modular and mirrored the half of the pattern.
-![](http://localhost:1313/week1/create-a-slot&mirror.png)
-![](http://localhost:1313/week1/create-a-slot&mirror2.png)
+![](https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/week1/create-a-slot&mirror.png)
+![](https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/week1/create-a-slot&mirror2.png)
 To make a complete lock, I created the arrow on the other side which allows components to be connected.
-![](http://localhost:1313/week1/create-an-arrow.png)
+![](https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/week1/create-an-arrow.png)
 
 The patterns are ready to be printed now!
