@@ -15,8 +15,8 @@
 #theme = "ananke"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
-# baseurl = "https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/"
-baseurl = "https://urguxxi.github.io/fablab2024/"
+baseurl = "https://shannon-fablab2024-chuyun-ma-f3ee371913caadac60372e714e70a686ae.gitlab.dsi.universite-paris-saclay.fr/"
+# baseurl = "https://urguxxi.github.io/fablab2024/"
 # baseurl = "https://pages.gitlab.io/hugo/"
 title = "GitLab Pages and Hugo"
 contentdir    = "content"
