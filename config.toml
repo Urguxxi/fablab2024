@@ -31,7 +31,7 @@ Paginate = 8 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = ""
 enableRobotsTXT = true
 # canonifyURLs = false
-relativeUrls = true
+relativeUrls = false
 
 [languages]
   [languages.en]
